@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml:2:13-83
+INJECTED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml:2:13-83
+	package
+		INJECTED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml
+	xmlns:android
+		ADDED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml:2:23-81
+uses-sdk
+INJECTED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml reason: use-sdk injection requested
+INJECTED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml
+INJECTED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml
+	android:minSdkVersion
+		INJECTED from /Users/rajukumar/Downloads/BillNest-OnBoarding-Screen-Created/features/home/ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17160334836273479174.xml
